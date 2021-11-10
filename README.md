@@ -8,18 +8,22 @@ Regla 4. Los elementos h3 de color rojo
 
 Regla 5. Los elementos div tendrán un padding: 10px, width: 50%, position: relative y background-color: lightblue
 
-Regla 6. Los elementos con identificador (id) universal tendrán color lightgoldenrodyellow
+Regla 6. Los elementos div que contengan div tendrán una clase con: display: flex, flex-direction: row, margin: 5px 0 5px
 
-Regla 7. Los elementos h2 con clase selector y los elementos h2 con identificador (id) universal tendrán color de fondo darkcyan, relleno de 1% y esquinas redondeadas con valor de 5px
+Regla 7. Los elementos p que esten en un div tendrás font-family: sans-serif, color: blue
 
-Regla 8. Los elementos span tendrán font-weight: 900; color de fondo negro y color de texto blanco
+Regla 8. Los elementos a tendrán text-decoration: none, color: magenta, font-style: italic
 
-Regla 9. Los elementos a que sean hijos directos de algún li tendrán text-decoration: none
+Regla 9. Los elementos span tendrán una clase con: font-weight: bold
 
-Regla 10. Los elementos h3 tendrán color de fondo background-color: rgba(0, 139, 139, 0.529);, relleno de 0.5px y esquinas redondeadas con valor de 5px
+Regla 10. Los precios tendran esta clase: font-size: 12px 
 
-Regla 11. Los elementos div que sean descendientes de un elemento con id gallery tendrán un ancho width de 100%
+Regla 11. Como icono de la pagina la siguiente ruta./img/icono.jpg
 
-Regla 12. Los elementos img tendrán un ancho width de 100%, un border: solid darkcyan 1px; y esquinas redondeadas con valor de 5px
+Regla 12. El div que contenga solo p tendrán una clase con: background-color: lightgreen, border: 2px solid black, padding: 15px, margin: 10px 0px 10px
 
-Utilizar GitHub Pages para desplegar la web en internet
+Regla 13. los elementos img tendrán: margin-left: 20%
+
+Regla 14. Los elementos ul tendran una clase con: background-color: darkblue, list-style-type: none, text-align: center, margin: 10px,  padding: 0;
+
+Regla 15. los elementos li que esten dentro del ul tendran la clase: display: inline-block, font-size: 20px, padding: 20px
